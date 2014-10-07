@@ -24,6 +24,8 @@ namespace F4toA3Monitor
         //Initialize values
         private void Initialize()
         {
+            // Move to Config File
+            // Pass as an object into this class (create new object with getters/setters)
             server   = "";
             database = "";
             uid      = "";
